@@ -5,13 +5,8 @@
   
   <br>
 
-  <a href="https://twitter.com/zexonapp">
-    <img height="60px" alt="Follow X Banner" src="https://github.com/zexon-app/.github/assets/70103896/9818575c-5866-497d-b47d-3ec858bae881">ㅤ
-  </a>
-  
-  <a href="https://discord.gg/aX9T49je">
-    <img height="60px" alt="Join Discord Banner" src="https://github.com/zexon-app/.github/assets/70103896/eb6b0789-3d5d-4dd7-b499-bbfb22e27c1e">
-  </a>
+  <img onclick="window.location.href='https://twitter.com/zexonapp'" height="60px" alt="Follow X Banner" src="https://github.com/zexon-app/.github/assets/70103896/9818575c-5866-497d-b47d-3ec858bae881">ㅤ
+  <img onclick="window.location.href='https://discord.gg/aX9T49je'" height="60px" alt="Join Discord Banner" src="https://github.com/zexon-app/.github/assets/70103896/eb6b0789-3d5d-4dd7-b499-bbfb22e27c1e">
 </div>
 
 <br>
