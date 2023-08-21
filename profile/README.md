@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="200" alt="Zexon Logo" src="https://github.com/vleer-app/Vleer/assets/70103896/d59e2d5f-26d6-42b5-b9fa-1476c4686a70">
+  <img width="200" alt="Vleer Logo" src="https://github.com/vleer-app/.github/assets/70103896/44ffbfff-cb38-4c09-bfe3-42e7bb284a50">
   <h1>Vleer</h1>
   <p>This is a free and Open Source music app aimed to replace paid services like Spotify, Apple Music etc. this app is<br>planned to release with a dekstop as well as a IPhone version.</p>
 
   <br>
 
-  <a href="https://twitter.com/zexonapp" target="_blank">
+  <a href="https://twitter.com/vleerapp" target="_blank">
     <img height="60px" alt="Follow X Banner" src="https://i.imgur.com/gsGciyb.png">ㅤ
   </a>
   
