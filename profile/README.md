@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" alt="Vleer Logo" src="https://github.com/vleer-app/.github/assets/70103896/44ffbfff-cb38-4c09-bfe3-42e7bb284a50">
+  <img width="200" alt="Vleer Logo" src="https://github.com/vleer-app/.github/assets/70103896/034e576d-215f-4d26-a166-f397264ec270">
   <h1>Vleer</h1>
   <p>This is a free and Open Source music app aimed to replace paid services like Spotify, Apple Music etc. this app is<br>planned to release with a dekstop as well as a IPhone version.</p>
 
