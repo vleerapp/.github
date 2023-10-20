@@ -11,11 +11,11 @@
     <img height="60px" alt="Follow X Banner" src="https://i.imgur.com/gsGciyb.png">ㅤ
   </a>
   
-  <a href="https://discord.gg/aX9T49je" target="_blank">
+  <a href="https://discord.gg/5cGXbeD8zN" target="_blank">
     <img height="60px" alt="Join Discord Banner" src="https://i.imgur.com/CulBkiI.png">
   </a>
 </div>
 
 <br>
 
-> **NOTE:** This project is in the early development stage
+> **NOTE:** This project is in the early development stage we do not have a stable version at the moment until then it can only be used by compilling it yourself
