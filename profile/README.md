@@ -1,7 +1,7 @@
 <div align="center">
   <img width="200" alt="Vleer Logo" src="https://github.com/vleer-app/.github/assets/70103896/034e576d-215f-4d26-a166-f397264ec270">
   <h1>Vleer</h1>
-  <p><p>A redefined way of how we interact with music introduces you to Vleer, an app crafted<br>
+  <p><p>A redefined way of how you interact with music. Introducing Vleer, an app crafted<br>
     entirely around you. We've prioritized your needs, simplifying every part of the user experience. <br> Whether you're at your PC or on your Phone.</p>
 </p>
 
@@ -18,4 +18,4 @@
 
 <br>
 
-> **NOTE:** This project is in the early development stage we do not have a stable version at the moment until then it can only be used by compilling it yourself
+> **NOTE:** This project is undergoing a major rewrite to fix the old version and finally create a stable app
