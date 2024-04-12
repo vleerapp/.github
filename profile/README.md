@@ -18,4 +18,6 @@
 
 <br>
 
-> **NOTE:** This project is undergoing a major rewrite to fix the old version and finally create a stable app
+<div align="center">
+<h3>Pre-release available <a href="https://github.com/Vleerapp/Vleer/releases/latest">here</a></h1>
+</div>
