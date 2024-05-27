@@ -8,6 +8,8 @@ Vleer is a lightweight and fast privacy first music app replacing your tradition
 
 Vleer is available on both desktop and mobile. The mobile version though is only available for IOS at the moment. Contributions for android support are welcome.
 
+<br>
+
 <table align="center"><tr>
     <td>
         <a href="https://github.com/vleerapp/Vleer"> <b>Desktop</b> </a>
