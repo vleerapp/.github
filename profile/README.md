@@ -10,11 +10,7 @@ Vleer is available on both desktop and mobile. The mobile version though is only
 
 <br>
 
-<table align="center"><tr>
-    <td>
-        <a href="https://github.com/vleerapp/Vleer"> <b>Desktop</b> </a>
-    </td>
-    <td>
-        <a href="https://github.com/vleerapp/Mobile"> <b>Mobile</b> </a>
-    </td>
-</table>
+<div align="center">
+<a href="https://github.com/vleerapp/Vleer"> <kbd> <br> <b>Desktop</b> <br> </kbd> </a>
+<a href="https://github.com/vleerapp/Mobile"> <kbd> <br> <b>Mobile</b> <br> </kbd> </a>
+</div>
