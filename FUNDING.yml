@@ -1,5 +1,3 @@
-github: vleerapp
-github: 0pandadev
-github: waradu
+github: [waradu, 0pandadev, vleerapp]
 buy_me_a_coffee: pandadev_
 polar: vleerapp
