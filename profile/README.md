@@ -1,4 +1,4 @@
-![Vleer banner](https://github.com/vleerapp/Vleer/assets/70103896/f4a619ab-4f4c-4c2f-babe-79a4555a93c5)
+![Vleer Banner](https://github.com/user-attachments/assets/54fdabb4-946b-4d52-b7b5-a2165f9e4e43)
 
 <div align="center">
 
