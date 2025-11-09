@@ -1,4 +1,4 @@
-# Currently unmaintained and not working.
+# Developement is temprarily paused but we will come back something big is in planning stay tuned.
 
 ![Vleer Banner](https://github.com/user-attachments/assets/54fdabb4-946b-4d52-b7b5-a2165f9e4e43)
 
