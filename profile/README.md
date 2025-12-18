@@ -24,7 +24,6 @@
   </table>
 </div>
 
-
 ## Roadmap
 
 For now we are focusing on building a good and stable local music player with Vleer before expanding it by implementing the OpenMusic API Spec, which is also being developed simultaneously alongside a reference implementation in Go that just serves a local folder over the API.
@@ -34,3 +33,5 @@ For now we are focusing on building a good and stable local music player with Vl
 - [ ] Go Reference Implemenatation
 - [ ] Integration of OpenMusic API into Vleer
 - [ ] Testing & Validation, OpenMusic API
+
+To get notified when Vleer is finally stable [» Join the Waitlist](https://vleer.app/)
