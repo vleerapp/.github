@@ -6,22 +6,30 @@
   <br>
   <br>
 
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github.com/vleerapp/vleer">
-            <img width="16px" src="https://vleer.app/logo.png"> Vleer
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/vleerapp/openmusic">
-            <img width="16px" src="https://openmusic.vleer.app/logo.svg"> OpenMusic Docs
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  
+  <a href="https://github.com/vleerapp/vleer">
+    <kbd>
+      vleer
+    </kbd>
+  </a>
+  ·
+  <a href="https://github.com/vleerapp/docs">
+    <kbd>
+      docs
+    </kbd>
+  </a>
+  ·
+  <a href="https://github.com/vleerapp/api">
+    <kbd>
+      api
+    </kbd>
+  </a>
+  ·
+  <a href="https://github.com/vleerapp/openmusic-fs">
+    <kbd>
+      openmusic-fs
+    </kbd>
+  </a>
 </div>
 
 ## Roadmap
